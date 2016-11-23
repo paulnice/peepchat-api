@@ -37,6 +37,7 @@ defmodule Peepchat.Mixfile do
      {:gettext, "~> 0.11"},
      {:cors_plug, "~> 1.1"},
      {:guardian, "~> 0.12.0"},
+     {:ja_serializer, "~> 0.11.1"},
      {:comeonin, "~> 2.4"},
      {:cowboy, "~> 1.0"}]
   end
